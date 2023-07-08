@@ -7,7 +7,7 @@ plugins {
     id("org.jetbrains.kotlin.jvm") version "1.9.0"
     id("org.jetbrains.intellij") version "1.14.1"
     // Gradle Changelog Plugin
-    id("org.jetbrains.changelog") version "2.1.0"
+    id("org.jetbrains.changelog") version "2.1.1"
 }
 
 group = properties("pluginGroup")
