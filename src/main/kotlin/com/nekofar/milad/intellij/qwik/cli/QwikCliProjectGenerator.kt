@@ -29,8 +29,7 @@ class QwikCliProjectGenerator : NpmPackageProjectGenerator() {
 
     override fun generateInTemp() = true
 
-    override fun generatorArgs(project: Project?, dir: VirtualFile?, settings: Settings?): Array<String> =
-        arrayOf("../" + project?.name.toString())
+    override fun generatorArgs(project: Project, baseDir: VirtualFile) = arrayOf("basic", project.name)
 
     override fun getIcon() = QwikIcons.ProjectGenerator
 }
