@@ -9,12 +9,13 @@
 
 
 <!-- Plugin description -->
-Quickly start building a new [Qwik](https://qwik.builder.io/) application within seconds, with everything set up for you.
+[Qwik](https://qwik.builder.io), an innovative web framework, revolutionizes the speed and performance of web applications, regardless of their size or complexity. Benefiting from a minuscule 1kb of JS boot capacity, it assures consistent performance even when scaled.
 
-Whether you're a seasoned pro or just starting out, makes it easy to speed up the setup and initialization phase of your project creation process.
-<!-- Plugin description end -->
+This dedicated plugin generates a blank starter canvas, facilitating a swift and convenient way for you to get the hands-on experience of this groundbreaking technology.
+
+This plugin is designed to streamline the setup and construction phases of your project, making it user-friendly for all experience levels, be it beginners or experts.<!-- Plugin description end -->
 
 ## Installation
 
-To install plugin open `Preferences > Plugins > Marketplace`, and search for Qwik.
+For plugin installation, navigate to `Preferences`, then `Plugins`, and finally `Marketplace`. In the search bar, enter `Qwik`.
 
