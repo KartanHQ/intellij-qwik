@@ -13,7 +13,8 @@
 
 This dedicated plugin generates a blank starter canvas, facilitating a swift and convenient way for you to get the hands-on experience of this groundbreaking technology.
 
-This plugin is designed to streamline the setup and construction phases of your project, making it user-friendly for all experience levels, be it beginners or experts.<!-- Plugin description end -->
+This plugin is designed to streamline the setup and construction phases of your project, making it user-friendly for all experience levels, be it beginners or experts.
+<!-- Plugin description end -->
 
 ## Installation
 
