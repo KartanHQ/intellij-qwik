@@ -3,10 +3,11 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.0.0-beta.8] - 2023-07-09
+## [1.0.0-beta.9] - 2023-07-22
 
 ### Bug Fixes
 
+- Solve some minor issues and update dependencies
 - Solve some minor issues and update dependencies
 - Solve some minor issues and update dependencies
 - Solve some minor issues and update dependencies
