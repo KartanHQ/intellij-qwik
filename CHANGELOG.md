@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+## [1.1.0] - 2024-10-07
+
+### Features
+
+- Add `messagePointer` function to retrieve lazy messages
+
 ## [1.0.12] - 2024-10-05
 
 ### Bug Fixes
